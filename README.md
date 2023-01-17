@@ -1,8 +1,7 @@
-- Hi, I’m @ruihao69 (Ruihao Bi), A Bachelor of Science major in chemistry.
-- I'm taking lectures of Quantum Mechanics, Chemical Kinetics and Reaction Dynamics, and Statistical Mechanics.
-- I’m working on non-adiabatic molecular dynamics.
-- I’m learning electric guitar. Self-study now. Looking for a guitar teacher.
-- PhD candidate at Westlake University, Hangzhou, Zhejiang, China. Starting from August, 2022. 
+- Hi, I’m @ruihao69 (Ruihao Bi). PhD. candidate. Chemistry. Chemical physics.
+- I'm learning c++ programming language. 
+- I’m implementing numerical methods for QCLE-CME (donor-acceptor-metal model).
+- PhD candidate at Westlake University, Hangzhou, Zhejiang, China. 1/5\*2 semester in. 
 - Current Affiliation:
   - [Dr. Wenjie Dou Group](http://dougroup.westlake.edu.cn), School of Science, Westlake University.
 - Past Affilications:
