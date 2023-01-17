@@ -1,7 +1,7 @@
 - Hi, I’m @ruihao69 (Ruihao Bi). PhD. candidate. Chemistry. Chemical physics.
 - I'm learning c++ programming language. 
 - I’m implementing numerical methods for QCLE-CME (donor-acceptor-metal model).
-- PhD candidate at Westlake University, Hangzhou, Zhejiang, China. 1/5\*2 semester in. 
+- PhD candidate at Westlake University, Hangzhou, Zhejiang, China.
 - Current Affiliation:
   - [Dr. Wenjie Dou Group](http://dougroup.westlake.edu.cn), School of Science, Westlake University.
 - Past Affilications:
