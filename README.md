@@ -1,9 +1,9 @@
 - Hi, I’m @ruihao69 (Ruihao Bi). PhD. candidate. 
- - keywords: chemical physics; electron transfer; ring polymer dynamics.
+ - keywords: chemical physics; electron transfer; ring polymer molecular dynamics (RPMD).
 - I'm learning c++ programming language. 
 - I’m implementing numerical methods for QCLE-CME:
   - doi: 10.1021/acs.jctc.7b00094.
-- I'm implementing extending CME: 
+- I'm implementing extending CME-methods: 
   - doi: 10.1063/1.4908034
   - todos: ehrenfest dynamics, ring polymer MD.
 - PhD candidate at Westlake University, Hangzhou, Zhejiang, China.
