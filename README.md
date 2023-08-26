@@ -1,7 +1,7 @@
-- Hi, I’m @ruihao69 (Ruihao Bi). PhD. candidate. 
+- Hi, I’m @ruihao69 (Ruihao Bi), currently a PhD. student at Westlake University, Hangzhou, Zhejiang, China. 
  - keywords: Chemical physics; Electron transfer; ring polymer molecular dynamics (RPMD); Exact rate theory.
 - I will take courses of Statistical Mechanics and Materials Chemistry this semaster.
-- PhD candidate at Westlake University, Hangzhou, Zhejiang, China.
+- I'm learning the `julia` programming language.
 - Current Affiliation:
   - [Dr. Wenjie Dou Group](http://dougroup.westlake.edu.cn), School of Science, Westlake University.
 - Past Affilications:
